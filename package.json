@@ -1,0 +1,14 @@
+{
+  "name": "bazar-front",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@vaadin/router": "1.7.4",
+    "parcel": "^2.9.3",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "dev:front": "parcel serve ./index.html",
+    "build:front": "parcel build ./index.html"
+  }
+}
