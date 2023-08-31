@@ -9,6 +9,7 @@
   },
   "scripts": {
     "dev:front": "parcel serve ./index.html",
-    "build:front": "parcel build ./index.html"
+    "build:front": "parcel build ./index.html",
+    "build": "yarn build:front"
   }
 }
