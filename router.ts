@@ -16,5 +16,6 @@ export function configureRouter() {
     { path: "/ventas", component: "ventas-page" },
     { path: "/add-venta", component: "add-venta-page" },
     { path: "/edit-venta", component: "edit-venta-page" },
+    { path: "(.*)", redirect: "/welcome" },
   ]);
 }
