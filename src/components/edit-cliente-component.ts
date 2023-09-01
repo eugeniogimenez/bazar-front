@@ -1,6 +1,7 @@
 import { Router } from "@vaadin/router";
 import { state } from "../../state"; // Asegúrate de importar el estado correctamente
-const API_URL = "http://localhost:8080";
+
+const API_URL = "https://bazar-back-dsou.onrender.com";
 
 class EditClientComponent extends HTMLElement {
   shadow: ShadowRoot;

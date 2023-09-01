@@ -1,5 +1,5 @@
 class FooterComponent extends HTMLElement {
-    shadow: ShadowRoot;
+    shadow: ShadowRoot; 
   
     constructor() {
       super();

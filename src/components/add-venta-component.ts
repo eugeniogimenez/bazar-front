@@ -1,6 +1,6 @@
 import { Router } from "@vaadin/router";
 
-const API_URL = "http://localhost:8080";
+const API_URL = "https://bazar-back-dsou.onrender.com";
 
 class AddVentaComponent extends HTMLElement {
     shadow: ShadowRoot;
