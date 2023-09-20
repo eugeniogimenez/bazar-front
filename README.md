@@ -1,4 +1,4 @@
-# TO DO LIST - FRONT
+# BAZAR - FRONT
 
 ## Descripcion General:
 El proyecto consiste en un Sistema para la administración de un Bazar. El usuario puede ser el dueño o un empleado de dicho negocio. Se trabaja con Productos, Clientes y Ventas, pudiendo guardar datos tanto de las personas, como los productos y las ventas que se van realizando.
